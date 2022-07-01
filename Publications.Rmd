@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-description: Here you find my scientific publications
 site: distill::distill_website
 ---
 
