@@ -1,0 +1,41 @@
+---
+title: "Scientific Events"
+site: distill::distill_website
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+## Conference talks
+
+
+# 2022
+
+- Internationnal Symposium on Coral Reefs (ICRS): <span style="color: #00cc99;">*A new framework based on synchronised cameras to measure fish abundance* </span>
+
+
+# 2021
+
+- Internationnal Symposium on Coral Reefs (ICRS): <span style="color: #00cc99;">*Tropical exotic fish are key herbivores in the Mediterranean sea* </span>
+
+- R Rencontres 2021: <span style="color: #00cc99;">*Presentation of the mFD package*</span> - Recording of the talk [here](https://www.youtube.com/watch?v=fvnTqqnEEB0)
+
+
+## Co-organised workshops
+
+
+# 2022
+
+- I had the opportunity to co-organise a [Workshop on Functional Rarity and Diversity in Ecology](https://frbcesab.github.io/workshop-free/) led by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) and the [FREE Research Group](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/). During this workshop, we did a practical on the use of the [mFD](https://onlinelibrary.wiley.com/doi/10.1111/ecog.05904) and the [funrar](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12629) R packages.
+Co-organisation with: [Matthias Grenié](https://rekyt.github.io/) and [Sébastien Villéger](https://umr-marbec.fr/membre/sebastien-villeger/?highlight=villeger)
+
+
+## Scientific popularization
+
+# 2022
+
+- I participated to the "Ma Thèse en 180 secondes" (Three Minuts Thesis) competition: the goal is to resume the thesis subject in 3 minutes for a non-scientific audience. My colleagues and I had the opportunity to speak in front of about 450 persons, it was an incredible experience! My talk in *french* [here](https://www.youtube.com/watch?v=vf_43KJPgkE).
+
+

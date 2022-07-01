@@ -1,0 +1,24 @@
+---
+title: "Developped Tools"
+description: Tools developped for the community
+site: distill::distill_website
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+## mFD R Package and associated tutorials
+
+
+During my PhD, I have developped the <span style="color: #00cc99;">mFD R package</span> which computes and plot functional diversity indices.
+
+
+<img src="https://raw.githubusercontent.com/CmlMagneville/mFD/main/man/figures/hexasticker_mFD.png" style="height:140px; width:130px; padding:20px;"/>
+
+It is currently available on [CRAN](https://cran.r-project.org/web/packages/mFD/index.html) and [Github](https://github.com/CmlMagneville/mFD) for the development version. 
+
+Its [website](https://cmlmagneville.github.io/mFD/) goes with a set of <span style="color: #00cc99;">tutorials</span> to help to go through the functional analysis process.
+

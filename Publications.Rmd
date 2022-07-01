@@ -1,0 +1,31 @@
+---
+title: "Publications"
+description: Here you find my scientific publications
+site: distill::distill_website
+---
+
+## Links
+[Google Scholar](https://scholar.google.com/citations?user=PnnVbAgAAAAJ&hl=fr&authuser=1&oi=ao) | [ORCID](https://orcid.org/0000-0003-0489-3822)
+
+
+## 2022
+
+- Magneville _et al._ (2022). 
+mFD: An R package to compute and illustrate the multiple facets of functional diversity. 
+_Ecography_, **1**, 
+
+
+
+## 2021
+
+- Leclerc, C., Magneville, C., & Bellard, C. (2021) 
+Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach
+_Diversity and Distributions_, **00**, 1-11.
+
+
+## 2018
+
+- Magneville, C., Ratz, T., Richardson, J., & Smiseth, P. T. (2018) 
+No evidence of sibling cooperation in the absence of parental care in Nicrophorus vespilloides
+_Evolution_, **72(12)**, 2803–2809.
+

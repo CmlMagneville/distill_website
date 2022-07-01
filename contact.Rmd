@@ -1,0 +1,15 @@
+---
+title: "About"
+image: "images/profil.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/Cml_Magneville"
+  - label: GitHub
+    url: "https://github.com/CmlMagneville"
+  - label: Email
+    url: "camille.magneville@gmail.com"
+output:
+    postcards::jolla
+---
+ 
+Don't hesitate to contact me!
