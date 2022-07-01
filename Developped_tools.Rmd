@@ -13,7 +13,7 @@ text-align: justify}
 ## mFD R Package and associated tutorials
 
 
-During my PhD, I have developped the <span style="color: #00cc99;">mFD R package</span> which computes and plot functional diversity indices.
+During my PhD, I have developped the <span style="color: #00cc99;">mFD R package</span> which computes and plots functional diversity indices.
 
 
 <img src="https://raw.githubusercontent.com/CmlMagneville/mFD/main/man/figures/hexasticker_mFD.png" style="height:140px; width:130px; padding:20px;"/>

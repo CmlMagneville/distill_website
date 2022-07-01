@@ -13,12 +13,12 @@ text-align: justify}
 
 # 2022
 
-- Internationnal Symposium on Coral Reefs (ICRS): <span style="color: #00cc99;">*A new framework based on synchronised cameras to measure fish abundance* </span>
+- International Symposium on Coral Reefs (ICRS): <span style="color: #00cc99;">*A new framework based on synchronised cameras to measure fish abundance* </span>
 
 
 # 2021
 
-- Internationnal Symposium on Coral Reefs (ICRS): <span style="color: #00cc99;">*Tropical exotic fish are key herbivores in the Mediterranean sea* </span>
+- International Symposium on Coral Reefs (ICRS): <span style="color: #00cc99;">*Tropical exotic fish are key herbivores in the Mediterranean sea* </span>
 
 - R Rencontres 2021: <span style="color: #00cc99;">*Presentation of the mFD package*</span> - Recording of the talk [here](https://www.youtube.com/watch?v=fvnTqqnEEB0)
 
