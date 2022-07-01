@@ -5,7 +5,7 @@
       "title": "About",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Camille Magneville\r\n          \r\n          \r\n          Home\r\n          Developped Tools\r\n          Scientific Events\r\n          Publications\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            About\r\n          \r\n          \r\n            \r\n              Don’t hesitate to contact me!\r\n            \r\n            \r\n              Don’t hesitate to contact me!\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2022-07-01T16:02:47+02:00"
+      "last_modified": "2022-07-01T17:32:28+02:00"
     },
     {
       "path": "Developped_tools.html",
@@ -13,7 +13,7 @@
       "description": "Tools developped for the community",
       "author": [],
       "contents": "\r\nmFD R Package and associated tutorials\r\nDuring my PhD, I have developped the mFD R package which computes and plots functional diversity indices.\r\n\r\nIt is currently available on CRAN and Github for the development version.\r\nIts website goes with a set of tutorials to help to go through the functional analysis process.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-01T16:02:48+02:00"
+      "last_modified": "2022-07-01T17:32:30+02:00"
     },
     {
       "path": "index.html",
@@ -21,21 +21,21 @@
       "description": "PhD Student . Functional Diversity . Marine Fishes",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nFigure 1: Coral Reefs from Mayotte (Indian Ocean)\r\n\r\n\r\n\r\nHi!\r\n\r\n\r\n\r\nI am a PhD student at the MARBEC lab, University of Montpellier in France. I am supervised by Sébastien Villéger and Thomas Claverie.\r\nI am currently working on marine fish functional diversity and its temporal variation at the within day and between-day scales, using long-duration underwater remote cameras.\r\nDetails: I study the contribution of fish species to ecosystem processes, what we call their functional role. Instead of looking at species richness (number of species in a given location), I am looking at species characteristics (such as their diet, their size …) shaping their role in the environment and also precise processes such as the herbivory activity which shape ecosystem functioning. I am more precisely interested in the temporal variation of this functional diversity as for mobile species, such as fishes, their impact at a given location varies across time (because they move). I apply this framework to study the impact of tropicalisation on functional diversity and the effect of Marine Protected Areas on diversity accumulation through time.\r\nDuring my PhD, I also had the opportunity to realise teaching at the University of Montpellier in Biostatistics, Functional Ecology and R programmation.\r\n“Functional diversity is of ecological importance because it, by definition, is the component of diversity that influences ecosystem dynamics, stability, productivity, nutrient balance, and other aspects of ecosystem functioning.” Tilman, 2001\r\nReferences\r\nTilman, D (2021) Functional Diversity.. S. A. Levin (Ed.), Encyclopedia of Biodiversity, Second Edition, 587-596.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-01T16:02:52+02:00"
+      "last_modified": "2022-07-01T17:32:35+02:00"
     },
     {
       "path": "Publications.html",
       "title": "Publications",
       "author": [],
       "contents": "\r\nLinks\r\nGoogle Scholar | ORCID\r\n2022\r\nMagneville et al. (2022). mFD: An R package to compute and illustrate the multiple facets of functional diversity. Ecography, 1,\r\n2021\r\nLeclerc, C., Magneville, C., & Bellard, C. (2021) Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach Diversity and Distributions, 00, 1-11.\r\n2018\r\nMagneville, C., Ratz, T., Richardson, J., & Smiseth, P. T. (2018) No evidence of sibling cooperation in the absence of parental care in Nicrophorus vespilloides Evolution, 72(12), 2803–2809.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-01T16:02:54+02:00"
+      "last_modified": "2022-07-01T17:32:36+02:00"
     },
     {
       "path": "Scientific_event.html",
       "title": "Scientific Events",
       "author": [],
       "contents": "\r\nConference talks\r\n2022\r\nInternational Symposium on Coral Reefs (ICRS): A new framework based on synchronised cameras to measure fish abundance \r\n2021\r\nInternational Symposium on Coral Reefs (ICRS): Tropical exotic fish are key herbivores in the Mediterranean sea \r\nR Rencontres 2021: Presentation of the mFD package - Recording of the talk here\r\nCo-organised workshops\r\n2022\r\nI had the opportunity to co-organise a Workshop on Functional Rarity and Diversity in Ecology led by the FRB-CESAB and the FREE Research Group. During this workshop, we did a practical on the use of the mFD and the funrar R packages. Co-organisation with: Matthias Grenié and Sébastien Villéger\r\nScientific popularization\r\n2022\r\nI participated to the “Ma Thèse en 180 secondes” (Three Minuts Thesis) competition: the goal is to resume the thesis subject in 3 minutes for a non-scientific audience. My colleagues and I had the opportunity to speak in front of about 450 persons, it was an incredible experience! My talk in french here.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-01T16:02:55+02:00"
+      "last_modified": "2022-07-01T17:32:38+02:00"
     }
   ],
   "collections": []
