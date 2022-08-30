@@ -22,3 +22,9 @@ It is currently available on [CRAN](https://cran.r-project.org/web/packages/mFD/
 
 Its [website](https://cmlmagneville.github.io/mFD/) goes with a set of <span style="color: #00cc99;">tutorials</span> to help to go through the functional analysis process.
 
+
+## Website on the basics of Code Reproductibility in R
+
+During on a project made during a teaching unit done by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) in Montpellier (December 2021), 
+two other PhD students and I have build a website on the basics of Code Reproductibility. Lena Klay, Erwan Harscouet and I hope that this [PokeReproductibility website](https://poke-reproducibility.netlify.app/) can help newcomers in the Reproductibility to understand the key concepts!
+
