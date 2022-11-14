@@ -9,6 +9,11 @@ site: distill::distill_website
 
 ## 2022
 
+- Magneville _et al._ (2022).
+Long-duration remote underwater videos reveal that grazing by fishes is highly variable through time and dominated by non-indigenous species.
+
+_Remote Sensing in Ecology and Evolution_
+
 - Magneville _et al._ (2022). 
 mFD: An R package to compute and illustrate the multiple facets of functional diversity. 
 _Ecography_, **1**, 
