@@ -1,12 +1,13 @@
 ---
 title: "Camille Magneville"
-description: 'PhD Student . Functional Diversity . Marine Fishes'
+description: 'Ph.D. - Functional Ecology .'
 site: distill::distill_website
 ---
 
 <style>
 body {
-text-align: justify}
+text-align: justify ;
+color: #36454F}
 </style>
 
 ```{r, layout="l-screen-inset", fig.cap = "Coral Reefs from Mayotte (Indian Ocean)", echo = FALSE}
@@ -14,7 +15,7 @@ knitr::include_graphics("images/cover.jpg")
 ```
 
 
-## Hi! 
+## Hi! <span class="wave">👋</span>
 
 
 <aside>
@@ -35,24 +36,25 @@ ggplot(df.img, aes(x = x, y = y )) + geom_image(aes(image = img), size = 1.1, as
 </aside>
 
 
-I am a PhD student at [the MARBEC lab](https://umr-marbec.fr/en/), [University of Montpellier](https://www.umontpellier.fr/en/) in France. I am supervised by [Sébastien Villéger](https://umr-marbec.fr/membre/sebastien-villeger/?highlight=villeger) and [Thomas Claverie](https://www.thomasclaverie.fr/).
+I have been captivated by nature ever since my childhood, when I first began 
+exploring the trails of the Alps. The complexity of nature is immense, and we 
+have only scratched the surface of our understanding of natural ecosystems
+functioning.
 
-I am currently working on marine fish <span style="color: #00cc99;">functional diversity</span> and its <span style="color: #00cc99;">temporal variation</span> at the within day and between-day scales, using <span style="color: #00cc99;">long-duration underwater remote cameras</span>. 
+When examining a species community, diversity is often measured in terms of 
+species richness, but it can also be observed through the lens of species 
+functional strategies, known as functional diversity. 
 
-Details: I study the contribution of fish species to ecosystem processes, what we call their functional role. Instead of looking at species richness (number of species in a given location), I am looking at <span style="color: #00cc99;">species characteristics (such as their diet, their size …) shaping their role in the environment</span> and also precise processes such as <span style="color: #00cc99;">the herbivory activity</span> which shape ecosystem functioning. I am more precisely interested in the temporal variation of this functional diversity as for mobile species, such as fishes, their impact at a given location varies across time (because they move). I apply this framework to study the impact of <span style="color: #00cc99;">tropicalisation</span> on functional diversity and the <span style="color: #00cc99;">effect of Marine Protected Areas</span> on diversity accumulation through time.
+As a functional ecologist, my research aims to 
+increase our understanding on how ecosystems are functioning and 
+how human activity can impact this functioning.
+I studied different taxa and scales which has led me to be more motivated by the 
+research question itself rather than by the taxa it applies to. I like to improve
+methodologies to precise species functional role.
 
 
-During my PhD, I also had the opportunity to realise <span style="color: #00cc99;">teaching</span> at the [University of Montpellier](https://www.umontpellier.fr/en/) in Biostatistics, Functional Ecology and R programmation.
 
 
-*"Functional diversity is of ecological importance because it, by definition, is the component of diversity that influences ecosystem dynamics, stability, productivity, nutrient balance, and other aspects of ecosystem functioning."* [Tilman, 2001](https://www.sciencedirect.com/science/article/pii/B9780123847195000617)
-
-
-## References
-
-- Tilman, D (2001) 
-Functional Diversity..
-_S. A. Levin (Ed.), Encyclopedia of Biodiversity_, **Second Edition**, 587-596.
 
 
 

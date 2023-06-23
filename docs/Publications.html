@@ -785,6 +785,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1857,15 +1858,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2376,7 +2383,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2409,6 +2416,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
+<a href="Research.html">Research</a>
+<a href="Teachings.htlm">Teachings</a>
 <a href="Developped_tools.html">Developped Tools</a>
 <a href="Scientific_event.html">Scientific Events</a>
 <a href="Publications.html">Publications</a>
@@ -2434,19 +2443,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p><a href="https://scholar.google.com/citations?user=PnnVbAgAAAAJ&amp;hl=fr&amp;authuser=1&amp;oi=ao">Google Scholar</a> | <a href="https://orcid.org/0000-0003-0489-3822">ORCID</a></p>
 <h2 id="section">2022</h2>
 <ul>
-<li>Magneville <em>et al.</em> (2022). Long-duration remote underwater videos reveal that grazing by fishes is highly variable through time and dominated by non-indigenous species.</li>
+<li>Magneville <em>et al.</em> (2022).
+Long-duration remote underwater videos reveal that grazing by fishes is highly variable through time and dominated by non-indigenous species.</li>
 </ul>
 <p><em>Remote Sensing in Ecology and Evolution</em></p>
 <ul>
-<li>Magneville <em>et al.</em> (2022). mFD: An R package to compute and illustrate the multiple facets of functional diversity. <em>Ecography</em>, <strong>1</strong>,</li>
+<li>Magneville <em>et al.</em> (2022).
+mFD: An R package to compute and illustrate the multiple facets of functional diversity.
+<em>Ecography</em>, <strong>1</strong>,</li>
 </ul>
 <h2 id="section-1">2021</h2>
 <ul>
-<li>Leclerc, C., Magneville, C., &amp; Bellard, C. (2021) Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach <em>Diversity and Distributions</em>, <strong>00</strong>, 1-11.</li>
+<li>Leclerc, C., Magneville, C., &amp; Bellard, C. (2021)
+Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach
+<em>Diversity and Distributions</em>, <strong>00</strong>, 1-11.</li>
 </ul>
 <h2 id="section-2">2018</h2>
 <ul>
-<li>Magneville, C., Ratz, T., Richardson, J., &amp; Smiseth, P. T. (2018) No evidence of sibling cooperation in the absence of parental care in Nicrophorus vespilloides <em>Evolution</em>, <strong>72(12)</strong>, 2803–2809.</li>
+<li>Magneville, C., Ratz, T., Richardson, J., &amp; Smiseth, P. T. (2018)
+No evidence of sibling cooperation in the absence of parental care in Nicrophorus vespilloides
+<em>Evolution</em>, <strong>72(12)</strong>, 2803–2809.</li>
 </ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

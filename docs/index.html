@@ -90,27 +90,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_meta_tags-->
   <title>Camille Magneville</title>
 
-  <meta property="description" itemprop="description" content="PhD Student . Functional Diversity . Marine Fishes"/>
+  <meta property="description" itemprop="description" content="Ph.D. - Functional Ecology ."/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Camille Magneville"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="PhD Student . Functional Diversity . Marine Fishes"/>
+  <meta property="og:description" content="Ph.D. - Functional Ecology ."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Camille Magneville"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
   <meta property="twitter:title" content="Camille Magneville"/>
-  <meta property="twitter:description" content="PhD Student . Functional Diversity . Marine Fishes"/>
+  <meta property="twitter:description" content="Ph.D. - Functional Ecology ."/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Camille Magneville"]},{"type":"character","attributes":{},"value":["PhD Student . Functional Diversity . Marine Fishes"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Camille Magneville"]},{"type":"character","attributes":{},"value":["Ph.D. - Functional Ecology ."]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -788,6 +788,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1860,15 +1861,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2379,7 +2386,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2399,7 +2406,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Camille Magneville","description":"PhD Student . Functional Diversity . Marine Fishes","authors":[]}
+{"title":"Camille Magneville","description":"Ph.D. - Functional Ecology .","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2412,6 +2419,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
+<a href="Research.html">Research</a>
+<a href="Teachings.htlm">Teachings</a>
 <a href="Developped_tools.html">Developped Tools</a>
 <a href="Scientific_event.html">Scientific Events</a>
 <a href="Publications.html">Publications</a>
@@ -2428,38 +2437,43 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h1>Camille Magneville</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>PhD Student . Functional Diversity . Marine Fishes</p>
+<p>Ph.D. - Functional Ecology .</p>
 </div>
 
 
 <div class="d-article">
 <style>
 body {
-text-align: justify}
+text-align: justify ;
+color: #36454F}
 </style>
 <div class="layout-chunk" data-layout="l-screen-inset">
 <div class="figure"><span style="display:block;" id="fig:unnamed-chunk-1"></span>
-<img src="images/cover.JPG" alt="Coral Reefs from Mayotte (Indian Ocean)" width="1792" />
+<img src="images/cover.jpg" alt="Coral Reefs from Mayotte (Indian Ocean)" width="1792" />
 <p class="caption">
 Figure 1: Coral Reefs from Mayotte (Indian Ocean)
 </p>
 </div>
 </div>
-<h2 id="hi">Hi!</h2>
+<h2 id="hi">Hi! <span class="wave">👋</span></h2>
 <aside>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="index_files/figure-html5/unnamed-chunk-2-1.png" width="624" /></p>
 </div>
 </aside>
-<p>I am a PhD student at <a href="https://umr-marbec.fr/en/">the MARBEC lab</a>, <a href="https://www.umontpellier.fr/en/">University of Montpellier</a> in France. I am supervised by <a href="https://umr-marbec.fr/membre/sebastien-villeger/?highlight=villeger">Sébastien Villéger</a> and <a href="https://www.thomasclaverie.fr/">Thomas Claverie</a>.</p>
-<p>I am currently working on marine fish <span style="color: #00cc99;">functional diversity</span> and its <span style="color: #00cc99;">temporal variation</span> at the within day and between-day scales, using <span style="color: #00cc99;">long-duration underwater remote cameras</span>.</p>
-<p>Details: I study the contribution of fish species to ecosystem processes, what we call their functional role. Instead of looking at species richness (number of species in a given location), I am looking at <span style="color: #00cc99;">species characteristics (such as their diet, their size …) shaping their role in the environment</span> and also precise processes such as <span style="color: #00cc99;">the herbivory activity</span> which shape ecosystem functioning. I am more precisely interested in the temporal variation of this functional diversity as for mobile species, such as fishes, their impact at a given location varies across time (because they move). I apply this framework to study the impact of <span style="color: #00cc99;">tropicalisation</span> on functional diversity and the <span style="color: #00cc99;">effect of Marine Protected Areas</span> on diversity accumulation through time.</p>
-<p>During my PhD, I also had the opportunity to realise <span style="color: #00cc99;">teaching</span> at the <a href="https://www.umontpellier.fr/en/">University of Montpellier</a> in Biostatistics, Functional Ecology and R programmation.</p>
-<p><em>“Functional diversity is of ecological importance because it, by definition, is the component of diversity that influences ecosystem dynamics, stability, productivity, nutrient balance, and other aspects of ecosystem functioning.”</em> <a href="https://www.sciencedirect.com/science/article/pii/B9780123847195000617">Tilman, 2001</a></p>
-<h2 id="references">References</h2>
-<ul>
-<li>Tilman, D (2001) Functional Diversity.. <em>S. A. Levin (Ed.), Encyclopedia of Biodiversity</em>, <strong>Second Edition</strong>, 587-596.</li>
-</ul>
+<p>I have been captivated by nature ever since my childhood, when I first began
+exploring the trails of the Alps. The complexity of nature is immense, and we
+have only scratched the surface of our understanding of natural ecosystems
+functioning.</p>
+<p>When examining a species community, diversity is often measured in terms of
+species richness, but it can also be observed through the lens of species
+functional strategies, known as functional diversity.</p>
+<p>As a functional ecologist, my research aims to
+increase our understanding on how ecosystems are functioning and
+how human activity can impact this functioning.
+I studied different taxa and scales which has led me to be more motivated by the
+research question itself rather than by the taxa it applies to. I like to improve
+methodologies to precise species functional role.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

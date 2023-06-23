@@ -5,7 +5,8 @@ site: distill::distill_website
 
 <style>
 body {
-text-align: justify}
+text-align: justify;
+color: #36454F}
 </style>
 
 ## Conference talks

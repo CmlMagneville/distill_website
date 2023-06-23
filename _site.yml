@@ -9,12 +9,16 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Research"
+      href: Research.html
+    - text: "Teachings"
+      href: Teachings.htlm
     - text: "Developped Tools"
       href: Developped_tools.html
     - text: "Scientific Events"
-      href: "Scientific_event.html"
+      href: Scientific_event.html
     - text: "Publications"
-      href: "Publications.html"
+      href: Publications.html
     - text: "About"
       href: contact.html
   search: true
