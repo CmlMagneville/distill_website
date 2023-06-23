@@ -5,7 +5,7 @@
       "title": "About",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Camille Magneville\r\n          \r\n          \r\n          Home\r\n          Research\r\n          Teachings\r\n          Developped Tools\r\n          Scientific Events\r\n          Publications\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            About\r\n          \r\n          \r\n            \r\n              Don’t hesitate to contact me!\r\n            \r\n            \r\n              Don’t hesitate to contact me!\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2023-06-23T17:17:02+02:00"
+      "last_modified": "2023-06-23T17:21:29+02:00"
     },
     {
       "path": "Developped_tools.html",
@@ -13,7 +13,7 @@
       "description": "Tools developped for the community",
       "author": [],
       "contents": "\r\nmFD R Package and associated tutorials\r\nDuring my PhD, I have developped the mFD R package which computes and plots functional diversity indices.\r\n\r\nIt is currently available on CRAN and Github for the development version.\r\nIts website goes with a set of tutorials to help to go through the functional analysis process.\r\nWebsite on the basics of Code Reproductibility in R\r\nDuring on a project made during a teaching unit done by the FRB-CESAB in Montpellier (December 2021),\r\ntwo other PhD students and I have build a website on the basics of Code Reproductibility. Lena Klay, Erwan Harscouet and I hope that this PokeReproductibility website can help newcomers in the Reproductibility to understand the key concepts!\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-23T17:17:05+02:00"
+      "last_modified": "2023-06-23T17:21:31+02:00"
     },
     {
       "path": "index.html",
@@ -21,35 +21,35 @@
       "description": "Ph.D. - Functional Ecology .",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nFigure 1: Coral Reefs from Mayotte (Indian Ocean)\r\n\r\n\r\n\r\nHi! 👋\r\n\r\n\r\n\r\nI have been captivated by nature ever since my childhood, when I first began\r\nexploring the trails of the Alps. The complexity of nature is immense, and we\r\nhave only scratched the surface of our understanding of natural ecosystems\r\nfunctioning.\r\nWhen examining a species community, diversity is often measured in terms of\r\nspecies richness, but it can also be observed through the lens of species\r\nfunctional strategies, known as functional diversity.\r\nAs a functional ecologist, my research aims to\r\nincrease our understanding on how ecosystems are functioning and\r\nhow human activity can impact this functioning.\r\nI studied different taxa and scales which has led me to be more motivated by the\r\nresearch question itself rather than by the taxa it applies to. I like to improve\r\nmethodologies to precise species functional role.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-23T17:17:08+02:00"
+      "last_modified": "2023-06-23T17:21:35+02:00"
     },
     {
       "path": "Publications.html",
       "title": "Publications",
       "author": [],
       "contents": "\r\nLinks\r\nGoogle Scholar | ORCID\r\n2022\r\nMagneville et al. (2022).\r\nLong-duration remote underwater videos reveal that grazing by fishes is highly variable through time and dominated by non-indigenous species.\r\nRemote Sensing in Ecology and Evolution\r\nMagneville et al. (2022).\r\nmFD: An R package to compute and illustrate the multiple facets of functional diversity.\r\nEcography, 1,\r\n2021\r\nLeclerc, C., Magneville, C., & Bellard, C. (2021)\r\nConservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach\r\nDiversity and Distributions, 00, 1-11.\r\n2018\r\nMagneville, C., Ratz, T., Richardson, J., & Smiseth, P. T. (2018)\r\nNo evidence of sibling cooperation in the absence of parental care in Nicrophorus vespilloides\r\nEvolution, 72(12), 2803–2809.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-23T17:17:10+02:00"
+      "last_modified": "2023-06-23T17:21:37+02:00"
     },
     {
       "path": "Research.html",
       "title": "Research",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-23T17:17:12+02:00"
+      "last_modified": "2023-06-23T17:21:38+02:00"
     },
     {
       "path": "Scientific_event.html",
       "title": "Scientific Events",
       "author": [],
       "contents": "\r\nConference talks\r\n2022\r\nInternational Symposium on Coral Reefs (ICRS): A new framework based on synchronised cameras to measure fish abundance \r\n2021\r\nInternational Symposium on Coral Reefs (ICRS): Tropical exotic fish are key herbivores in the Mediterranean sea \r\nR Rencontres 2021: Presentation of the mFD package - Recording of the talk here\r\nCo-organised workshops\r\n2022\r\nI had the opportunity to co-organise a Workshop on Functional Rarity and Diversity in Ecology led by the FRB-CESAB and the FREE Research Group. During this workshop, we did a practical on the use of the mFD and the funrar R packages.\r\nCo-organisation with: Matthias Grenié and Sébastien Villéger\r\nScientific popularization\r\n2022\r\nI participated to the “Ma Thèse en 180 secondes” (Three Minuts Thesis) competition: the goal is to resume the thesis subject in 3 minutes for a non-scientific audience. My colleagues and I had the opportunity to speak in front of about 450 persons, it was an incredible experience! My talk in french here.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-23T17:17:13+02:00"
+      "last_modified": "2023-06-23T17:21:40+02:00"
     },
     {
       "path": "Teachings.html",
       "title": "Research",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-23T17:17:14+02:00"
+      "last_modified": "2023-06-23T17:21:41+02:00"
     }
   ],
   "collections": []
