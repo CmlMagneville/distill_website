@@ -23,7 +23,7 @@ knitr::include_graphics("images/cover.JPG")
 ```{r, echo=FALSE}
 library(ggimage)
 library(ggplot2)
-df.img <- data.frame(x = 4, y = 5, img = "images/profil.jpg")
+df.img <- data.frame(x = 5, y = 6, img = "images/profil.jpg")
 ggplot(df.img, aes(x = x, y = y )) + geom_image(aes(image = img), size = 1.1, asp = 1.5) +
   theme_void() +
   theme(
