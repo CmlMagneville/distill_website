@@ -11,7 +11,7 @@ color: #36454F}
 </style>
 
 ```{r, layout="l-screen-inset", fig.cap = "Coral Reefs from Mayotte (Indian Ocean)", echo = FALSE}
-knitr::include_graphics("images/cover.jpg")
+knitr::include_graphics("images/cover.JPG")
 ```
 
 
@@ -47,8 +47,8 @@ functional strategies, known as functional diversity.
 
 As a functional ecologist, my research aims to 
 increase our understanding on how ecosystems are functioning and 
-how human activity can impact this functioning.
-I studied different taxa and scales which has led me to be more motivated by the 
+how human activity impact this functioning.
+I have studied different taxa and scales which has led me to be more motivated by the 
 research question itself rather than by the taxa it applies to. I like to improve
 methodologies to precise species functional role.
 
