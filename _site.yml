@@ -12,14 +12,16 @@ navbar:
     - text: "Research"
       href: Research.html
     - text: "Teachings"
-      href: Teachings.htlm
+      href: Teachings.html
     - text: "Developped Tools"
       href: Developped_tools.html
     - text: "Scientific Events"
       href: Scientific_event.html
     - text: "Publications"
       href: Publications.html
-    - text: "About"
+    - text: "CV"  
+      href: pdfs/resume.pdf
+    - text: "Contact"
       href: contact.html
   search: true
 output: distill::distill_article
