@@ -9,6 +9,9 @@ text-align: justify;
 color: #36454F}
 </style>
 
+Teaching is a part of my job that I absolutely love. 
+Transmitting knowledge, finding new ways to explain key concepts, 
+and engaging with students also helps me evolve in my research work.
 
 <span style="color: #93A588;">2019 - 2022</span>
 
@@ -19,4 +22,10 @@ at the [University of Montpellier](https://www.umontpellier.fr/en/) in:
 - Functional Ecology
 - Description of data variability
 - Biostatistics and R coding
+
+
+<span style="color: #93A588;">2023 - 2025</span>
+
+(coming soon)
+
 

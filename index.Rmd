@@ -1,7 +1,18 @@
 ---
 title: "Camille Magneville"
+image: "images/profil.jpg"
+preview: "images/profil.jpg"
 description: 'Ph.D. - Functional Ecology .'
 site: distill::distill_website
+links:
+  - label: Twitter
+    url: "https://twitter.com/Cml_Magneville"
+  - label: GitHub
+    url: "https://github.com/CmlMagneville"
+  - label: Email
+    url: "mailto:camille.magneville@gmail.com"
+output:
+  postcards::trestles
 ---
 
 <style>
@@ -10,31 +21,7 @@ text-align: justify ;
 color: #36454F}
 </style>
 
-```{r, layout="l-screen-inset", fig.cap = "Coral Reefs from Mayotte (Indian Ocean)", echo = FALSE}
-knitr::include_graphics("images/cover.JPG")
-```
-
-
 ## Hi! <span class="wave">👋</span>
-
-
-<aside>
-
-```{r, echo=FALSE}
-library(ggimage)
-library(ggplot2)
-df.img <- data.frame(x = 5, y = 6, img = "images/profil.jpg")
-ggplot(df.img, aes(x = x, y = y )) + geom_image(aes(image = img), size = 1.1, asp = 1.5) +
-  theme_void() +
-  theme(
-    panel.background = element_rect(fill = "white", color = "white"), 
-    plot.background = element_rect(fill = "white", color = "white")
-  )
-```
-
-
-</aside>
-
 
 I have been captivated by nature ever since my childhood, when I first began 
 exploring the trails of the Alps. The complexity of nature is immense, and we 
@@ -52,12 +39,4 @@ I have studied different taxa and scales which has led me to be more motivated b
 research question itself rather than by the taxa it applies to. I like to improve
 methodologies to precise species functional role.
 
-
-
-
-
-
-
-
-
-
+I’d love to hear from you :) You can find me online using the links on the left!
