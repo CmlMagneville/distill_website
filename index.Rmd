@@ -30,13 +30,15 @@ functioning.
 
 When examining a species community, diversity is often measured in terms of 
 species richness, but it can also be observed through the lens of species 
-functional strategies, known as functional diversity. 
+functional strategies, known as functional diversity or species phylogenetic 
+history, know as phylogenetic diversity.
 
-As a functional ecologist, my research aims to 
-increase our understanding on how ecosystems are functioning and 
-how human activity impact this functioning.
-I have studied different taxa and scales which has led me to be more motivated by the 
-research question itself rather than by the taxa it applies to. I like to improve
-methodologies to precise species functional role.
+The main characteristic of my research so far, is to lead a multidimensional 
+approach of diversity, considering not only taxonomic diversity but also 
+functional and phylogenetic diversities, to study the impact of human
+activity on ecosystems. I'm also interested in developing new methodological
+approaches to better assess ecosystem functioning.
+I have studied different taxa and scales which has led me to be more motivated 
+by the research question itself rather than by the taxa it applies to. 
 
-I’d love to hear from you :) You can find me online using the links on the left!
+I’d love to hear from you, you can find me online using the links on the left!

@@ -7,6 +7,19 @@ site: distill::distill_website
 [Google Scholar](https://scholar.google.com/citations?user=PnnVbAgAAAAJ&hl=fr&authuser=1&oi=ao) | [ORCID](https://orcid.org/0000-0003-0489-3822)
 
 
+## 2023
+
+- Magneville _et al_ (2023).
+Remote video surveys unveil the diurnal variability of trophic-based processes by fishes on coral reefs.
+
+_Coral Reefs_
+
+- Villéger, **Magneville**, Roncin, Retailleau, Claverie (2023).
+Behavior of reef fishes during a submarine magnitude 5 earthquake.
+
+_Ecology - The Scientific Naturalist_
+
+
 ## 2022
 
 - Magneville _et al._ (2022).
