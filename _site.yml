@@ -5,6 +5,7 @@ theme: postcards.css
 description: |
   Camille Magneville
 output_dir: "docs"
+creative_commons: CC BY
 navbar:
   right:
     - text: "Home"
