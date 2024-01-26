@@ -10,11 +10,11 @@ color: #36454F}
 </style>
 
 
-<span style="color: #93A588;">DRIVERS OF MEDITERRANEAN FORESTS TAXONOMIC, FUNCTIONAL AND PHYLOGENETIC DIVERSITY & ITS EVOLUTION ACROSS FUTURE SCENARIOS (Sept 2023 - Sept 2026)</span>
+<span style="color: #93A588;">DRIVERS OF MEDITERRANEAN FORESTS TAXONOMIC, FUNCTIONAL AND PHYLOGENETIC DIVERSITY & ITS EVOLUTION ACROSS FUTURE SCENARIOS (Sept 2023 - August 2026)</span>
 
 
 I am beginning a Postdoc at the [ECONOVO Center](https://bio.au.dk/forskning/forskningscentre/econovo)
-and [Aarhus University](https://international.au.dk/) (Denmark). 
+at [Aarhus University](https://international.au.dk/) (Denmark). 
 I am studying the relative importance of current and past environmental 
 conditions and biotic interactions in shaping taxonomic, functional and 
 phylogenetic diversity patterns. Once this knowledge has been acquired, I will
@@ -24,6 +24,10 @@ climate change.
 
 This work is part of the [INTEGRADIV](https://www.integradiv-biodiversa.org/)
 Biodiversa project.
+
+For a global summary of the first parts of my project during this postdoc,
+you can have a look at the poster I presented at the IBS 2024 [**here**](pdfs/IBS_Poster_CMagneville_versfinale.pdf).
+
 
 
 <span style="color: #93A588;">FUNCTIONAL DIVERSITY OF FISHES IN COASTAL MARINE ECOSYSTEMS AND ITS TEMPORAL VARIABILITY (PhD thesis - 2019 - 2023) </span>

@@ -22,6 +22,8 @@ navbar:
       href: Publications.html
     - text: "CV"  
       href: pdfs/resume.pdf
+    - text: "Contact"
+      href: contact.html
   search: true
 output: distill::distill_article
 ---

@@ -7,17 +7,31 @@ site: distill::distill_website
 [Google Scholar](https://scholar.google.com/citations?user=PnnVbAgAAAAJ&hl=fr&authuser=1&oi=ao) | [ORCID](https://orcid.org/0000-0003-0489-3822)
 
 
+
+## 2024
+
+- Magneville, Dedieu, Loiseau, Claverie, Villéger (2024)
+Detecting benefits of protection level on diversity facets in a sea of temporal scarcity
+
+_Aquatic Conservation: Marine and Freshwater Ecosystems_
+
+
+- Fleuré, **Magneville**, Mouillot, Villéger (2024)
+Automated identification of invasive rabbitfishes in underwater images from the Mediterranean Sea
+
+_Aquatic Conservation: Marine and Freshwater Ecosystems_
+
 ## 2023
 
-- Magneville _et al_ (2023).
+- Magneville, Claverie, Villéger (2023).
 Remote video surveys unveil the diurnal variability of trophic-based processes by fishes on coral reefs.
 
-_Coral Reefs_
+_Coral Reefs, 1-11_
 
 - Villéger, **Magneville**, Roncin, Retailleau, Claverie (2023).
 Behavior of reef fishes during a submarine magnitude 5 earthquake.
 
-_Ecology - The Scientific Naturalist_
+_Ecology, 104 (10)_
 
 
 ## 2022
@@ -25,7 +39,7 @@ _Ecology - The Scientific Naturalist_
 - Magneville _et al._ (2022).
 Long-duration remote underwater videos reveal that grazing by fishes is highly variable through time and dominated by non-indigenous species.
 
-_Remote Sensing in Ecology and Evolution_
+_Remote Sensing in Ecology and Evolution, 9 (3), 311-322_
 
 - Magneville _et al._ (2022). 
 mFD: An R package to compute and illustrate the multiple facets of functional diversity. 
@@ -35,7 +49,7 @@ _Ecography_, **1**,
 
 ## 2021
 
-- Leclerc, C., Magneville, C., & Bellard, C. (2021) 
+- Leclerc, **Magneville**, & Bellard (2021) 
 Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach
 _Diversity and Distributions_, **00**, 1-11.
 

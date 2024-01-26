@@ -2,14 +2,16 @@
 title: "About"
 image: "images/profil.jpg"
 links:
+  - label: Email
+    url: "mailto:camille.magneville@gmail.com"
   - label: Twitter
     url: "https://twitter.com/Cml_Magneville"
   - label: GitHub
     url: "https://github.com/CmlMagneville"
-  - label: Email
-    url: "mailto:camille.magneville@gmail.com"
 output:
     postcards::jolla
 ---
  
-Don't hesitate to contact me!
+Please don't hesitate to reach out, 
+
+and I'll respond to you as soon as possible!

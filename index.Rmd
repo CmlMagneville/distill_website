@@ -1,7 +1,7 @@
 ---
-title: "Camille Magneville"
-image: "images/profil.jpg"
-preview: "images/profil.jpg"
+title: "Camille Magneville, PhD"
+image: "images/IMG_1022.JPG"
+preview: "images/IMG_1022.JPG"
 description: 'Ph.D. - Functional Ecology .'
 site: distill::distill_website
 links:
@@ -25,20 +25,13 @@ color: #36454F}
 
 I have been captivated by nature ever since my childhood, when I first began 
 exploring the trails of the Alps. The complexity of nature is immense, and we 
-have only scratched the surface of our understanding of natural ecosystems
-functioning.
+have only scratched the surface of our understanding of how natural ecosystems function.
 
-When examining a species community, diversity is often measured in terms of 
-species richness, but it can also be observed through the lens of species 
-functional strategies, known as functional diversity or species phylogenetic 
-history, know as phylogenetic diversity.
+In scrutinizing species communities, diversity manifests not only in species richness, but also through the perspectives of species functional strategies (known as functional diversity) and evolutionary histories (know as phylogenetic diversity). This **multidimensional view**, encompassing taxonomic, functional, and phylogenetic diversities, forms the basis of my research so far.
 
-The main characteristic of my research so far, is to lead a multidimensional 
-approach of diversity, considering not only taxonomic diversity but also 
-functional and phylogenetic diversities, to study the impact of human
-activity on ecosystems. I'm also interested in developing new methodological
-approaches to better assess ecosystem functioning.
-I have studied different taxa and scales which has led me to be more motivated 
+My primary focus is on **functional diversity, explored through both the diversity of traits exhibited by species and the study of their activities**. Through my work, I seek to **enhance our understanding of the impact of human activities on ecosystem functioning**. This pursuit drives me to **develop tools** aimed at enhancing our assessment of ecological processes.
+
+I have studied different taxa (marine and terrestrial) and scales (from local to global) which has led me to be more motivated 
 by the research question itself rather than by the taxa it applies to. 
 
 I’d love to hear from you, you can find me online using the links on the left!

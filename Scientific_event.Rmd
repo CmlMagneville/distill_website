@@ -24,6 +24,17 @@ color: #36454F}
 - R Rencontres 2021: <span style="color: #00cc99;">*Presentation of the mFD package*</span> - Recording of the talk [here](https://www.youtube.com/watch?v=fvnTqqnEEB0)
 
 
+
+## Conference posters
+
+
+# 2023
+
+- International Biogeography Symposium (IBS): <span style="color: #00cc99;">*Exploring diversity dimensions to protect Euro-Mediterranean forests* </span>
+
+[**See my poster here**](pdfs/IBS_Poster_CMagneville_versfinale.pdf) 
+
+
 ## Co-organised workshops
 
 
