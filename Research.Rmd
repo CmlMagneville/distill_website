@@ -10,38 +10,31 @@ color: #36454F}
 </style>
 
 
-<span style="color: #93A588;">DRIVERS OF MEDITERRANEAN FORESTS TAXONOMIC, FUNCTIONAL AND PHYLOGENETIC DIVERSITY & ITS EVOLUTION ACROSS FUTURE SCENARIOS (Sept 2023 - August 2026)</span>
+<span style="color: #93A588;">DRIVERS OF MEDITERRANEAN FORESTS TAXONOMIC, FUNCTIONAL AND PHYLOGENETIC DIVERSITY & ITS EVOLUTION ACROSS FUTURE SCENARIOS (Postdoc - Sept 2023 - August 2026) - with Alejandro Ordonez, Kent Olsen and Jens-Christian Svenning. </span>
 
 
 I am beginning a Postdoc at the [ECONOVO Center](https://bio.au.dk/forskning/forskningscentre/econovo)
 at [Aarhus University](https://international.au.dk/) (Denmark). 
-I am studying the relative importance of current and past environmental 
-conditions and biotic interactions in shaping taxonomic, functional and 
-phylogenetic diversity patterns. Once this knowledge has been acquired, I will
-be focusing on how these diversity facets evolve across different
-socio-economical scenarios and assessing species vulnerability to land-use and
-climate change.
+First, I'm trying to establish the drivers influencing the patterns of Mediterranean forests diversity, considering not only taxonomic but also functional and phylogenetic diversities. This project also focuses on diverse taxa of Mediterranean forests, to be able to integrate species interactions into our analysis (trees, birds, butterflies and reptiles). Then, I'll explore the evolution of the three diversity facets in a near future (2100) and its impact on C sequestration. The final aim of my work is to inform stakeholders about the current and future distribution of species, traits and evolutionary diversities, notably by providing interactive maps with the highlights of current protected areas networks.
 
 This work is part of the [INTEGRADIV](https://www.integradiv-biodiversa.org/)
-Biodiversa project.
+Biodiversa project - you can find a video explaining the global aim of the project [here](https://youtu.be/9XBM03hzWxw).
 
 For a global summary of the first parts of my project during this postdoc,
 you can have a look at the poster I presented at the IBS 2024 [**here**](pdfs/IBS_Poster_CMagneville_versfinale.pdf).
 
 
 
-<span style="color: #93A588;">FUNCTIONAL DIVERSITY OF FISHES IN COASTAL MARINE ECOSYSTEMS AND ITS TEMPORAL VARIABILITY (PhD thesis - 2019 - 2023) </span>
+
+<span style="color: #93A588;">FUNCTIONAL DIVERSITY OF FISHES IN COASTAL MARINE ECOSYSTEMS AND ITS TEMPORAL VARIABILITY (PhD thesis - 2019 - 2023) - with Sébastien Villéger and Thomas Claverie. </span>
 
 I did my PhD at the [MARBEC lab](https://umr-marbec.fr/en/) at the 
 [University of Montpellier](https://www.umontpellier.fr/en/) (France). I 
-developped new tools to estimate the temporal variability of fishes diversity
-and functional roles based on cameras approaches. Using these tools, I studied 
-how functional roles varied at within-day and between-day scales in temperate
-and tropical coastal ecosystems. Then, I have assessed how this temporal
-variation at short temporal scale can affect our perception of Protected Marine Areas
-effect. I have found that within-day and between-day variability in species 
-functional roles is high and that functional processes (such as herbivory or 
-corallivory) are mainly realised during intense activity events. Thus measuring
-functional processes on short temporal scales can biais their estimation.
+developped new tools to estimate the temporal variability of fishes diversity and functional roles based on long-duration cameras approaches. Using these tools, I studied  how functional roles varied at within-day and between-day scales in temperate and tropical coastal ecosystems. Then, I assessed how these temporal variations at short temporal scale can affect our perception of Protected Marine Areas effect. 
 
+I have found that within-day and between-day variability in species 
+functional roles is high and that functional processes (such as herbivory or corallivory) are mainly realised during intense activity events. Thus measuring functional processes on short temporal scales can biais their estimation.
+
+My PhD was filled with different experiences. Methodological work through the development of long-duration underwater cameras, the construction of a metric to better assess mobile species abundance on videos & the lead of the creation of a R package to compute and plot functional diversity indices with a team of researchers. I then applied these tools to collect and analyse data, trying to enhance our understanding of within-day and between-day variability in species 
+functional roles, through fieldwork (Mediterranean Sea and Indian Ocean) and reproducible analyses in R. I also had the opportunity to work with an incredible team of students, who assisted me in these advancements and with whom I enjoyed sharing skills. This exchange of knowledge and ideas - which goes both ways, is essential to my work, that's why I also taught courses in statistics and functional ecology.
 
