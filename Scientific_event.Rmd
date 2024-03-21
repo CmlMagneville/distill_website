@@ -40,14 +40,19 @@ color: #36454F}
 
 # 2022
 
-- I had the opportunity to co-organise a [Workshop on Functional Rarity and Diversity in Ecology](https://frbcesab.github.io/workshop-free/) led by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) and the [FREE Research Group](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/). During this workshop, we did a practical on the use of the [mFD](https://onlinelibrary.wiley.com/doi/10.1111/ecog.05904) and the [funrar](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12629) R packages.
+- I had the opportunity to co-organise a [**Workshop on Functional Rarity and Diversity in Ecology**](https://frbcesab.github.io/workshop-free/) led by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) and the [FREE Research Group](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/). During this workshop, we did a practical on the use of the [mFD](https://onlinelibrary.wiley.com/doi/10.1111/ecog.05904) and the [funrar](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12629) R packages.
 Co-organisation with: [Matthias Grenié](https://rekyt.github.io/) and [Sébastien Villéger](https://umr-marbec.fr/membre/sebastien-villeger/?highlight=villeger)
 
 
 ## Scientific popularization
 
+
+# 2023
+
+- I conducted a **workshop** (Co-facilitated with Valentine Fleuré) aimed at **primary school classes** on the use of artificial intelligence to explore ecosystem functioning for World Oceans Day aimed  (UMR MARBEC - Sete)
+
 # 2022
 
-- I participated to the "Ma Thèse en 180 secondes" (Three Minuts Thesis) competition: the goal is to resume the thesis subject in 3 minutes for a non-scientific audience. My colleagues and I had the opportunity to speak in front of about 450 persons, it was an incredible experience! My talk in *french* [here](https://www.youtube.com/watch?v=vf_43KJPgkE).
+- I participated to the "Ma Thèse en 180 secondes" **(Three Minutes Thesis)** competition: the goal is to resume the thesis subject in 3 minutes for a non-scientific audience. My colleagues and I had the opportunity to speak in front of about 450 persons, it was an incredible experience! My talk in *french* [here](https://www.youtube.com/watch?v=vf_43KJPgkE).
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Camille Magneville, PhD"
-image: "images/IMG_1022.JPG"
-preview: "images/IMG_1022.JPG"
+image: "images/profil.JPG"
+preview: "images/profil.JPG"
 description: 'Ph.D. - Functional Ecology .'
 site: distill::distill_website
 links:
@@ -21,17 +21,16 @@ text-align: justify ;
 color: #36454F}
 </style>
 
-## Hi! <span class="wave">👋</span>
 
-I have been captivated by nature ever since my childhood, when I first began 
-exploring the trails of the Alps. The complexity of nature is immense, and we 
-have only scratched the surface of our understanding of how natural ecosystems function.
+While doing my Master degree, I discovered that **diversity goes beyond species diversity** and that it could also be seen as the **diversity of species traits and evolutionary histories** (functional and phylogenetic facets of diversity). During my Master 2 internship, I explored this idea further and applied it to the conservation of insular endemic mammals. 
 
-In scrutinizing species communities, diversity manifests not only in species richness, but also through the perspectives of species functional strategies (known as functional diversity) and evolutionary histories (know as phylogenetic diversity). This **multidimensional view**, encompassing taxonomic, functional, and phylogenetic diversities, forms the basis of my research so far.
+Then, My PhD in marine ecology allowed me to concentrate on **functional diversity**, and learn how to study it not only by using species characteristics but through the study of **functional processes** such as herbivory. I notably focused on exploring how functional processes change over short time periods (within and between days) which has led me to contribute to the development of underwater long-duration cameras and to the creation of a new metric that considers these short-term temporal variations. Embracing this **diverse array of approaches** has been truly rewarding, and I wish to pursue this path further in the future. 
 
-My primary focus is on **functional diversity, explored through both the diversity of traits exhibited by species and the study of their activities**. Through my work, I seek to **enhance our understanding of the impact of human activities on ecosystem functioning**. This pursuit drives me to **develop tools** aimed at enhancing our assessment of ecological processes.
+For my current postdoc, I went back to a more global approach by studying the **drivers of diversity facets**, in a project whose final aim is to provide stakeholders with guidelines on how taxonomic, functional and phylogenetic facets of diversity could be encapsulated in realistic conservation plans. 
 
-I have studied different taxa (marine and terrestrial) and scales (from local to global) which has led me to be more motivated 
-by the research question itself rather than by the taxa it applies to. 
+During my PhD, I came to realize that I really **enjoy and value knowledge sharing**, so whenever possible, I actively **seek opportunities to engage in teaching or public outreach**.
 
-I’d love to hear from you, you can find me online using the links on the left!
+Please don’t hesitate to reach out, and I will respond to you as soon as possible!
+
+[**See my CV here (Update April 2024)**](pdfs/resume.pdf) 
+

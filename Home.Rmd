@@ -1,0 +1,18 @@
+---
+title: "Home"
+site: distill::distill_website
+---
+
+<style>
+body {
+text-align: justify;
+color: #36454F}
+</style>
+
+
+<h1 class="left-align">Camille Magneville, PhD</h1>
+
+```{r, echo=FALSE, layout="l-screen-inset", fig.cap=""}
+knitr::include_graphics("images/home.png")
+```
+
