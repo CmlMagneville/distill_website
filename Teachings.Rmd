@@ -3,6 +3,16 @@ title: "Teachings"
 site: distill::distill_website
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
 <style>
 body {
 text-align: justify;
@@ -26,6 +36,9 @@ at the [University of Montpellier](https://www.umontpellier.fr/en/) in:
 
 <span style="color: #93A588;">2023 - 2025</span>
 
-(coming soon)
+At [Aarhus University](https://international.au.dk/) (english):
+- Guide a Bachelor research project: creation of a research project based on existing data, to make students think and realize the different steps of a research project - literature search, development of hypotheses, data analyses in R, introduction to functional diversity analyses, report redaction.
+- (more coming soon)
+
 
 

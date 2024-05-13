@@ -4,6 +4,16 @@ description: Tools developped for the community
 site: distill::distill_website
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
 <style>
 body {
 text-align: justify;

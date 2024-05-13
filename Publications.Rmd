@@ -3,6 +3,16 @@ title: "Publications"
 site: distill::distill_website
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
 ## Links
 [Google Scholar](https://scholar.google.com/citations?user=PnnVbAgAAAAJ&hl=fr&authuser=1&oi=ao) | [ORCID](https://orcid.org/0000-0003-0489-3822)
 

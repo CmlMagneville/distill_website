@@ -9,6 +9,15 @@ text-align: justify;
 color: #36454F}
 </style>
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
 
 <h1 class="left-align">Camille Magneville, PhD</h1>
 
