@@ -19,7 +19,7 @@ d-title {
   }
 ```
 
-<h1 class="left-align">Camille Magneville, PhD</h1>
+<h1 class="left-align">Camille Magneville, PhD - Functional Ecology</h1>
 
 ```{r, echo=FALSE, layout="l-screen-inset", fig.cap=""}
 knitr::include_graphics("images/home.png")
