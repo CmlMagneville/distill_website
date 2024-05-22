@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{css}
 d-title {
-    display: none;
+    visibility: hidden;
   }
 ```
 
