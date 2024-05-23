@@ -27,7 +27,7 @@ I am beginning a Postdoc at the [ECONOVO Center](https://bio.au.dk/forskning/for
 at [Aarhus University](https://international.au.dk/) (Denmark). 
 The first goal of my postdoc is to **explore the drivers of diversity in Euro-Mediterranean forests**, by leading a **multifaceted approach** considering the taxonomic, functional and phylogenetic facets of diversity and five key taxa of Mediterranean forests. These drivers consider past climate stability, habitat characteristics, disturbances and past and present direct human impact. 
 Then, once the drivers have been highlighted, we will be able to assess the **expected trajectories of each diversity facet in a near future** (2100) and study how it will **impact carbon sequestration**. 
-Finally, we will focus on **diversity hotspots and protected areas** to understand how current hotspots and protected areas roles will change in the near future, by looking at their **role in safeguarding functionally and phylogenetically vulnerable species and ecosystem processes**. We plan to build a website to provide stakeholders with results they could use. My work is part of the INTEGRADIV project  
+Finally, we will focus on **diversity hotspots and protected areas** to understand how current hotspots and protected areas roles will change in the near future, by looking at their **role in safeguarding functionally and phylogenetically vulnerable species and ecosystem processes**. We plan to build a website to provide stakeholders with results they could use. 
 
 
 This work is part of the [INTEGRADIV](https://www.integradiv-biodiversa.org/)
