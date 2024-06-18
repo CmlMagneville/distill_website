@@ -57,3 +57,9 @@ functional roles, through **fieldwork** (Mediterranean Sea and Indian Ocean) and
 ```{r, echo=FALSE, layout="l-body-outset", fig.cap=""}
 knitr::include_graphics("images/cam.JPG")
 ```
+
+
+<span style="color: #93A588;">DIMENSIONS OF THREATENED ENDEMIC MAMMAL DIVERSITY ON ISLANDS IN A CONSERVATION CONTEXT (Msc thesis - Jan 2019 - June 2020) - with Camille Leclerc and Céline Bellard </span>
+
+
+During my Master 2 internship, I worked at [the ESE lab](https://www.ese.universite-paris-saclay.fr/en/homepage/) in the [Biodiversity dynamics and macro-ecology team](https://www.biodiversitydynamics.fr/) led by Franck Courchamp. I learned how to use traits to compute functional diversity, and how to compute phylogenetic diversity. I apply these notions, to study **the diversity facets of threatened insular endemic mammals** to identify **priority areas for their conservation**. During this internship, I also learned through lab meetings, to **see the glass as half full rather than half empty**, and to celebrate small successes!
