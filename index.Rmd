@@ -5,8 +5,8 @@ preview: "images/profil.JPG"
 description: 'Ph.D. - Functional Ecology .'
 site: distill::distill_website
 links:
-  - label: Twitter
-    url: "https://twitter.com/Cml_Magneville"
+  - label: Bluesky
+    url: "https://bsky.app/profile/cmlmagneville.bsky.social"
   - label: GitHub
     url: "https://github.com/CmlMagneville"
   - label: Email
@@ -21,14 +21,15 @@ text-align: justify ;
 color: #36454F}
 </style>
 
+I’m generally interested in understanding **how biodiversity patterns in space and time shape ecosystem functioning**.  
 
 While doing my Master degree, I discovered that **diversity goes beyond species diversity** and that it could also be seen as the **diversity of species traits and evolutionary histories** (functional and phylogenetic facets of diversity). During my Master 2 internship, I explored this idea further and applied it to the conservation of insular endemic mammals. 
 
-Then, My PhD in marine ecology allowed me to concentrate on **functional diversity**, and learn how to study it not only by using species characteristics but through the study of **functional processes** such as herbivory. I notably focused on exploring how functional processes change over short time periods (within and between days) which has led me to contribute to the development of underwater long-duration cameras and to the creation of a new metric that considers these short-term temporal variations. Embracing this **diverse array of approaches** has been truly rewarding, and I wish to pursue this path further in the future. 
+My PhD in marine ecology allowed me to concentrate on **functional diversity**, and learn how to study it not only by using species characteristics but through the study of **functional processes** such as herbivory. I notably focused on exploring how functional processes change over short time periods (within and between days) which has led me to contribute to the development of underwater long-duration cameras and to the creation of a new metric that considers these short-term temporal variations. Embracing this **diverse array of approaches** has been truly rewarding, and I wish to pursue this path further in the future. 
 
 For my current postdoc, I went back to a more global approach by studying the **drivers of diversity facets**, in a project whose final aim is to provide stakeholders with guidelines on how taxonomic, functional and phylogenetic facets of diversity could be encapsulated in realistic conservation plans. 
 
-During my PhD, I came to realize that I really **enjoy and value knowledge sharing**, so whenever possible, I actively **seek opportunities to engage in teaching or public outreach**.
+In the future, I aim to return to marine ecosystems, **linking behavioral, functional and macro ecology**, to understand **how anthropic activities reshape coral reef assemblages and functions.**
 
 Please don’t hesitate to reach out, and I will respond to you as soon as possible!
 

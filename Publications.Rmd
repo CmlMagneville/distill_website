@@ -17,41 +17,59 @@ d-title {
 [Google Scholar](https://scholar.google.com/citations?user=PnnVbAgAAAAJ&hl=fr&authuser=1&oi=ao) | [ORCID](https://orcid.org/0000-0003-0489-3822)
 
 
+## 2025
+
+- Hernandez-Aguëro, Verbrug, **Magneville**, Cartereau, Silva, Leriche, Svenning, Tzortzakaki, Bacchetta and Riva (2025). Stakeholder consensus on conservation priorities across scientific, NGO, and governmental sectors. 
+_Conservation Letters_
+( _my role:_ Contributed to the survey design, interpretation of the results and critical revision of the manuscript)
+
+
+- Plazas-Gómez, Bejarano, **Magneville**, Fujitani (2025). Beyond taxonomy: A functional approach reveals patterns of reef fish response to wastewater pollution.
+_Marine Pollution Bulletin_
+( _my role:_ Contributed to interpretation of functional diversity results and critical revision of the manuscript)
+
 
 ## 2024
 
+- Richardson, **Magneville**, Grange, Shepperson, Skov, Hoey, Heenan (2024)
+Reorganisation following disturbance: multi trait-based methods in R
+_Teaching Issues and Experiments in Ecology__
+( _my role:_ Co-developed the R-based teaching material)
+
+- Magneville, Brissaud, Fleuré, Loiseau, Claverie, Villéger (2024)
+A new framework for estimating abundance of animals using a network of cameras
+_Limnology and Oceanography Methods_
+
+
 - Magneville, Dedieu, Loiseau, Claverie, Villéger (2024)
 Detecting benefits of protection level on diversity facets in a sea of temporal scarcity
-
 _Aquatic Conservation: Marine and Freshwater Ecosystems_
 
 
 - Fleuré, **Magneville**, Mouillot, Villéger (2024)
 Automated identification of invasive rabbitfishes in underwater images from the Mediterranean Sea
-
 _Aquatic Conservation: Marine and Freshwater Ecosystems_
+( _my role:_ Contributed to data collection (second fieldwork of my PhD), methods section and critical revision of the manuscript)
 
 ## 2023
 
 - Magneville, Claverie, Villéger (2023).
 Remote video surveys unveil the diurnal variability of trophic-based processes by fishes on coral reefs.
-
 _Coral Reefs, 1-11_
 
 - Villéger, **Magneville**, Roncin, Retailleau, Claverie (2023).
 Behavior of reef fishes during a submarine magnitude 5 earthquake.
-
 _Ecology, 104 (10)_
+( _my role:_ The videos on which this paper is based are from the second field campaign of my PhD thesis. I contributed in discussing the results with the team,  writing and editing of the manuscript.)
 
 
 ## 2022
 
-- Magneville _et al._ (2022).
+- Magneville, Leréec Le Bricquir, Dailianis, Skouradakis, Claverie, Villéger (2022).
 Long-duration remote underwater videos reveal that grazing by fishes is highly variable through time and dominated by non-indigenous species.
-
 _Remote Sensing in Ecology and Evolution, 9 (3), 311-322_
 
-- Magneville _et al._ (2022). 
+- Magneville, Loiseau, Albouy, Casajus, Claverie, Escalas, Leprieur, Maire, Mouillot, Villeger (2022). 
 mFD: An R package to compute and illustrate the multiple facets of functional diversity. 
 _Ecography_, **1**, 
 
@@ -62,11 +80,12 @@ _Ecography_, **1**,
 - Leclerc, **Magneville**, & Bellard (2021) 
 Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach
 _Diversity and Distributions_, **00**, 1-11.
+( _my role:_ First draft of analysis and paper through my MSc report, results interpretation and critical revision of the manuscript.)
 
 
 ## 2018
 
-- Magneville, C., Ratz, T., Richardson, J., & Smiseth, P. T. (2018) 
+- Magneville, Ratz., Richardson, & Smiseth (2018) 
 No evidence of sibling cooperation in the absence of parental care in Nicrophorus vespilloides
 _Evolution_, **72(12)**, 2803–2809.
-
+( _my role:_ Led intensive experimental lab work, set a first draft of analyses, revision of the manuscript.)

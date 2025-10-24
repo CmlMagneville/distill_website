@@ -22,6 +22,16 @@ color: #36454F}
 ## Conference talks
 
 
+# 2025 (to come)
+
+-  Bristish Ecological Society (BES): <span style="color: #00cc99;">*Are protected areas safeguarding taxonomic, functional and phylogenetic rarity under future change in Mediterranean forests?* </span>
+
+
+# 2024
+
+- Bristish Ecological Society (BES): <span style="color: #00cc99;">*Apprehending Past and Present Drivers of Functional and Phylogenetic Diversity in Euro-Mediterranean Forests* </span>
+
+
 # 2022
 
 - International Symposium on Coral Reefs (ICRS): <span style="color: #00cc99;">*A new framework based on synchronised cameras to measure fish abundance* </span>
@@ -36,6 +46,10 @@ color: #36454F}
 
 
 ## Conference posters
+
+# 2026 (to come)
+
+- International Biogeography Symposium (IBS): <span style="color: #00cc99;">*Do Protected Areas effectively preserve rarity across taxa and diversity facets under future change?* </span>
 
 
 # 2023

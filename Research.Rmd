@@ -19,16 +19,15 @@ text-align: justify;
 color: #36454F}
 </style>
 
+## Current Projects
 
 <span style="color: #93A588;">DRIVERS OF MEDITERRANEAN FORESTS TAXONOMIC, FUNCTIONAL AND PHYLOGENETIC DIVERSITY & ITS EVOLUTION ACROSS FUTURE SCENARIOS (Postdoc - Sept 2023 - August 2026) - with Alejandro Ordonez, Kent Olsen and Jens-Christian Svenning. </span>
 
 
-I am beginning a Postdoc at the [ECONOVO Center](https://bio.au.dk/forskning/forskningscentre/econovo)
+I am currently doing a Postdoc at the [ECONOVO Center](https://bio.au.dk/forskning/forskningscentre/econovo)
 at [Aarhus University](https://international.au.dk/) (Denmark). 
 The first goal of my postdoc is to **explore the drivers of diversity in Euro-Mediterranean forests**, by leading a **multifaceted approach** considering the taxonomic, functional and phylogenetic facets of diversity and five key taxa of Mediterranean forests. These drivers consider past climate stability, habitat characteristics, disturbances and past and present direct human impact. 
-Then, once the drivers have been highlighted, we will be able to assess the **expected trajectories of each diversity facet in a near future** (2100) and study how it will **impact carbon sequestration**. 
-Finally, we will focus on **diversity hotspots and protected areas** to understand how current hotspots and protected areas roles will change in the near future, by looking at their **role in safeguarding functionally and phylogenetically vulnerable species and ecosystem processes**. We plan to build a website to provide stakeholders with results they could use. 
-
+Then, I aim to understand how current protected areas effectiveness will change in a near future (2070), by looking at their **role in safeguarding functionally and phylogenetically rare species**.
 
 This work is part of the [INTEGRADIV](https://www.integradiv-biodiversa.org/)
 Biodiversa project whose final role is to **provide guidelines on how taxonomic, functional and phylogenetic facets of biodiversity could be encapsulated in realistic conservation plans** - you can find a video explaining the global aim of the project [here](https://youtu.be/9XBM03hzWxw).
@@ -41,6 +40,15 @@ you can have a look at the poster I presented at the IBS 2024 [**here**](pdfs/IB
 knitr::include_graphics("images/foret.jpg")
 ```
 
+
+<span style="color: #93A588;">TEMPORAL VARIATION IN TAXONOMIC AND FUNCTIONAL DIVERSITY AND NUTRIENT CYCLING OF CONSUMERS ACROSS AQUATIC ECOSYSTEMS (Co-PI - 2025-2026) - Co-lead with Dr. Grier (postdoctoral researcher at UC Santa Barbara, California, US), Ms. Enright (PhD candidate at UC Santa Barbara), Mr. White (PhD candidate at UC Santa Barbara). </span>
+
+The goal of this LTER synthesis working group funded by the National Center for Ecological Analysis and Synthesis (NCEAS) (United States) is to **understand how the functional diversity of consumers shapes ecosystem functions** such as nutrient cycling, and **how this diversity changes over time in response to temperature**. By combining long-term population data from LTER sites across ecosystems with trait databases, the team will **map consumers across ecosystems in trait space, identify ecological strategies across ecosystems**, and assess **how biodiversity patterns vary** across ecosystems and environmental gradients.
+
+[link to the description of the project on the NCEAS website](https://lternet.edu/working-groups/temporal-variation-in-taxonomic-and-functional-diversity-and-nutrient-cycling-of-consumers-across-aquatic-ecosystems-and-lter-sites/)
+
+
+## Past Projects 
 
 <span style="color: #93A588;">FUNCTIONAL DIVERSITY OF FISHES IN COASTAL MARINE ECOSYSTEMS AND ITS TEMPORAL VARIABILITY (PhD thesis - 2019 - 2023) - with Sébastien Villéger and Thomas Claverie. </span>
 
