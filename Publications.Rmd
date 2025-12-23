@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 site: distill::distill_website
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
@@ -14,10 +15,13 @@ d-title {
 ```
 
 ## Links
-[Google Scholar](https://scholar.google.com/citations?user=PnnVbAgAAAAJ&hl=fr&authuser=1&oi=ao) | [ORCID](https://orcid.org/0000-0003-0489-3822)
+[Google Scholar](https://scholar.google.com/citations?user=PnnVbAgAAAAJ&hl=fr&authuser=1&oi=ao) | [ORCID](https://orcid.org/0000-0003-0489-3822) | [Research Gate](https://www.researchgate.net/profile/Camille-Magneville?ev=hdr_xprf)
 
 
 ## 2025
+
+- Magneville, Cartereau, Hernández-Agüero, Silva, Marjakangas, Moracho Martinez, Biffoni, Casazza, Kati, Kokkoris, Le Bagousse-Pinguet, Médail, Millon, Nève, Riva, Soliveres, Zografou, Olsen, Svenning, Leriche, Ordonez (2025) Echoes of the Past: Long-Term Climate Stability Shapes Functional and Phylogenetic Diversity in Euro-Mediterranean Forests _Global Ecology and Biogeography_
+
 
 - Hernandez-Aguëro, Verbrug, **Magneville**, Cartereau, Silva, Leriche, Svenning, Tzortzakaki, Bacchetta and Riva (2025). Stakeholder consensus on conservation priorities across scientific, NGO, and governmental sectors. 
 _Conservation Letters_

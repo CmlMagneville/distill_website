@@ -1,6 +1,7 @@
 ---
 title: "Teachings"
 site: distill::distill_website
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}

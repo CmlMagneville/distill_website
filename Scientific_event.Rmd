@@ -1,6 +1,7 @@
 ---
 title: "Scientific Events"
 site: distill::distill_website
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
@@ -22,7 +23,7 @@ color: #36454F}
 ## Conference talks
 
 
-# 2025 (to come)
+# 2025 
 
 -  Bristish Ecological Society (BES): <span style="color: #00cc99;">*Are protected areas safeguarding taxonomic, functional and phylogenetic rarity under future change in Mediterranean forests?* </span>
 

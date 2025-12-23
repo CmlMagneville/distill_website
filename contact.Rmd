@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Contact"
 image: "images/profil.jpg"
 links:
   - label: Email
@@ -8,6 +8,7 @@ links:
     url: "https://twitter.com/Cml_Magneville"
   - label: GitHub
     url: "https://github.com/CmlMagneville"
+site: distill::distill_website
 output:
     postcards::jolla
 ---

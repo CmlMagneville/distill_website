@@ -21,15 +21,11 @@ text-align: justify ;
 color: #36454F}
 </style>
 
-I’m generally interested in understanding **how biodiversity patterns in space and time shape ecosystem functioning**.  
+I study how anthropogenic activities and global changes in general reshape ecosystem functioning, using functional, phylogenetic, and taxonomic diversity as a multidimensional approach of biodiversity. My research so far is organised around (1) **functional diversity and traits** as a tool to understand ecosystem functioning (2) **temporal variability** at short temporal scales such as the diel scale, but also across longer temporal spans to look at how global changes impact biodiversity (3) **human pressures and conservation** by **looking at protected area effectiveness.**
 
-While doing my Master degree, I discovered that **diversity goes beyond species diversity** and that it could also be seen as the **diversity of species traits and evolutionary histories** (functional and phylogenetic facets of diversity). During my Master 2 internship, I explored this idea further and applied it to the conservation of insular endemic mammals. 
+I particularly **enjoy exploring and learning new concepts and methods**, which has for instance recently led me to dive into species interaction networks and their rewiring capacity through collaborations with other early career researchers.
 
-My PhD in marine ecology allowed me to concentrate on **functional diversity**, and learn how to study it not only by using species characteristics but through the study of **functional processes** such as herbivory. I notably focused on exploring how functional processes change over short time periods (within and between days) which has led me to contribute to the development of underwater long-duration cameras and to the creation of a new metric that considers these short-term temporal variations. Embracing this **diverse array of approaches** has been truly rewarding, and I wish to pursue this path further in the future. 
-
-For my current postdoc, I went back to a more global approach by studying the **drivers of diversity facets**, in a project whose final aim is to provide stakeholders with guidelines on how taxonomic, functional and phylogenetic facets of diversity could be encapsulated in realistic conservation plans. 
-
-In the future, I aim to return to marine ecosystems, **linking behavioral, functional and macro ecology**, to understand **how anthropic activities reshape coral reef assemblages and functions.**
+In the future, I aim to link behavioral, functional and macro ecology, to understand how anthropic activities reshape coral reef assemblages and functions.
 
 Please don’t hesitate to reach out, and I will respond to you as soon as possible!
 

@@ -2,6 +2,7 @@
 title: "Developped Tools"
 description: Tools developped for the community
 site: distill::distill_website
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
